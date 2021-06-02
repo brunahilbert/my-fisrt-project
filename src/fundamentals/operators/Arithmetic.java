@@ -1,4 +1,4 @@
-package fundamentals;
+package fundamentals.operators;
 
 public class Arithmetic {
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Arithmetic {
 		System.out.println(x - y);
 		System.out.println(x * y);
 		System.out.println(x / y);
-		
+
 		int a = 8;
 		int b = 3;
 		

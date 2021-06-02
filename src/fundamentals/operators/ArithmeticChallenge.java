@@ -1,4 +1,4 @@
-package fundamentals;
+package fundamentals.operators;
 
 public class ArithmeticChallenge {
 	public static void main(String[] args) {
@@ -20,7 +20,7 @@ public class ArithmeticChallenge {
 		
 		double f = dPower / e;
 		
-		System.out.println(f);
+		System.out.println("The result is " + f);
 		
 	}
 
